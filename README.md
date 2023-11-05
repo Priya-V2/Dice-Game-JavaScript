@@ -17,3 +17,7 @@ This is an exciting dice game designed for two players, making it a perfect choi
 
 
 **Enjoy the game and may the best roller win!**
+
+Click below for game Link :
+
+[Dice Game](https://priya-v2.github.io/Dice-Game/) 
